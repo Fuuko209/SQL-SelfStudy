@@ -11,4 +11,4 @@
 
 | Qualitative Data| Quantitative Data |
 |---|---|
-| Determine the "characteristics" of an object or subject | Determine the "quantity" or numerical measurements of an object or subject. |
+| Determine the "**characteristics**" of an object or subject | Determine the "**quantity**" or numerical measurements of an object or subject. |
